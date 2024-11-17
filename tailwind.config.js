@@ -18,7 +18,10 @@ export default {
         poppins: ['Poppins'],
         frank: ['Frank Ruhl Libre'],
         podkova: ['Podkova']
-      }
+      },
+      dropShadow: {
+        shyam: '0 2px 20px rgba(0, 0, 0, 0.1)',
+      },
     },
   },
   plugins: [],
