@@ -40,13 +40,13 @@ function App() {
               <Button
                 bText={"Login"}
                 className={
-                  "px-8 py-4 border border-btnColor-0 rounded-[10px] hover:bg-btnColor-0"
+                  "px-8 py-4 border border-btnColor-0 rounded-[10px] drop-shadow-shyam hover:bg-btnColor-0"
                 }
               />
               <Button
                 bText={"Sign up"}
                 className={
-                  "px-8 py-4 border border-btnColor-0 rounded-[10px] hover:bg-btnColor-0"
+                  "px-8 py-4 border border-btnColor-0 rounded-[10px] drop-shadow-shyam hover:bg-btnColor-0"
                 }
               />
             </div>
